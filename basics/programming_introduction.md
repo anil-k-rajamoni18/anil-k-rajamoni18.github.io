@@ -83,13 +83,13 @@ console.log("Hello am Javascript")
 ## Unknow Facts
 ----------------------------------------------------------------
 
-=> #### Who is the First Computer Programmer?
+1. #### Who is the First Computer Programmer?
 - 19th-century **English mathematician Ada Lovelace** has been credited as the first computer program creator with an algorithm to calculate Bernoulli numbers.
 
 - Together with **Charles Babbage**, they developed whats regarded as the first computer. It was a primitive mechanical device called the Analytical Engine, and Lovelace wrote her algorithm for this device.
 
 
-=> #### Difference Between Coding & Programming?
+2. #### Difference Between Coding & Programming?
 
 #### Coding: 
 - A core element of programming that involves translating the logic of a program so that computers can understand and execute it. 
