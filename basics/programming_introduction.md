@@ -51,7 +51,7 @@ And just for fun, heres an example of machine code for the word ‘Hello’.
 
 [![asm](https://i.imgur.com/FEbrNKC.png "asm")](https://i.imgur.com/FEbrNKC.png "asm")
 
-####3. Mid-Level Language
+#### 3. Mid-Level Language
 - Writing instructions in English like statements
 - Allows to write in more human-friendly syntax while retaining 
 	- access to a computer system's abstraction layer. 
@@ -83,13 +83,13 @@ console.log("Hello am Javascript")
 ## Unknow Facts
 ----------------------------------------------------------------
 
-#### Who is the First Computer Programmer?
+=> #### Who is the First Computer Programmer?
 - 19th-century **English mathematician Ada Lovelace** has been credited as the first computer program creator with an algorithm to calculate Bernoulli numbers.
 
 - Together with **Charles Babbage**, they developed whats regarded as the first computer. It was a primitive mechanical device called the Analytical Engine, and Lovelace wrote her algorithm for this device.
 
 
-#### Difference Between Coding & Programming?
+=> #### Difference Between Coding & Programming?
 
 #### Coding: 
 - A core element of programming that involves translating the logic of a program so that computers can understand and execute it. 
