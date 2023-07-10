@@ -13,7 +13,7 @@ The general syntax for declaring variables is:
 |-----|-----|-----|
 |int|integer| %d (integer in the decimal system, use %kd when you need a width of k)|
 |float|single-precision floating point number| %f (%.kf where you need k digits after the decimal point)|
-|double|double-precision floating point number| %f (%.kf where you need k digits after the decimal point)|
+|double|double-precision floating point number| %f (%.kf where you need k digits after the decimal point)|-
 |char| character| %c|
 
 ### Constants
